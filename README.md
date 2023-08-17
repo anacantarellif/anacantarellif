@@ -1,7 +1,7 @@
 ## Oi! Eu sou a Ana Cantarelli 👋
 
-- 🔭 Hoje estudo Ensino Médio integrado ao curso Técnico em TI
-- 🌱 Atualmente estou estudando front-end e UX e UI
+- 🔭 Hoje, estudo Ensino Médio integrado ao curso Técnico em TI
+- 🌱 Atualmente estou estudando front-end e UX e UI Design
 
 <div align="center">  
   <a href="https://github.com/anacantarellif">
